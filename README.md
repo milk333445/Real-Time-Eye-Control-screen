@@ -1,4 +1,4 @@
-# Project Name: Real-Time Eye-Tracking Control
+# Project Name: Real-Time Eye-Tracking Control Screen pipeline
 
 ## Introduction
 
